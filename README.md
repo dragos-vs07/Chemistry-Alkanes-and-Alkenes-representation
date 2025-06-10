@@ -1,0 +1,2 @@
+This program was my first real project that did not represent a singular problem solving or a data structure implementation etc. It was created in 2023 and is posted here strictly to represent the passion i held back then for this and the determination i had to write over 1000 lines of code to graphicaly represent a simple chimical compound in C++ .
+Worth mentioning is the fact that this program has no intention of being clean, optimal or easily readable, it is a simple showcase of the beginning of my journey in the programming world and of my capacity at that moment.
